@@ -8,7 +8,7 @@
 <meta charset="ISO-8859-1">
 <title>Calcul de distance entre 2 villes</title>
 </head>
-<body>
+<body style="background-color: silver;">
 	<div class="container">
 		<div class="card border-0 shadow my-5">
 			<div class="card-body p-5">

@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<body style="background-color: aliceblue;">
+<body style="background-color: silver;">
 	<br>
 	<div class="container">
 		<div class="card border-0 shadow my-5">
